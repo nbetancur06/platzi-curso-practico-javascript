@@ -16,7 +16,14 @@
 - Tercer paso: Crear funciones.
 - Cuarto paso: Integras JS con HTML.
 
-## Taller 2: procentajes y Descuentos
+## Taller 2: Procentajes y Descuentos
+
+- Primer paso: Definir fórmulas.
+- Segundo paso: Implemetar las fórmulas en JS.
+- Tercer paso: Crear funciones.
+- Cuarto paso: Integras JS con HTML.
+
+## Taller 3: Promedio, Mediana y Moda
 
 - Primer paso: Definir fórmulas.
 - Segundo paso: Implemetar las fórmulas en JS.
